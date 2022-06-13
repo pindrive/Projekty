@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Formularz </title>
+        <meta charset="UTF-8" />
+    </head>
+
+    <body style ="background-color: #08826A; color: white";> 
+       <h2> <b> PODAJ DANE: </b> </h2> <br>
+
+    <form method="POST" action="faktura.php"> 
+    Typ dokumentu: <input type="text" name="typD" style="border: 3px solid black">
+    Numer: <input type="text" name="Nr" style="border: 3px solid black">
+    Data wystawienia: <input type="text" name="DataW" style="border: 3px solid black">
+    Miejsce wystawienia: <input type="text" name="MiejsceW" style="border: 3px solid black">
+    Data sprzedaży: <input type="text" name="DataS" style="border: 3px solid black">
+
+        <br> <br> <br>
+
+        <p style = "font-size: 20px;"> SPRZEDAWCA </p>
+
+        <br>
+
+    Nazwa firmy: <input type="text" name="NazwaF" style="border: 3px solid black">
+    Nip: <input type="text" name="NipS" style="border: 3px solid black">
+    Adres: <input type="text" name="AdresS" style="border: 3px solid black">
+    Numer konta: <input type="text" name="NrKontaS" style="border: 3px solid black">
+    Telefon: <input type="text" name="TelS" style="border: 3px solid black">
+
+        <br> <br> <br>
+
+        <p style = "font-size: 20px;"> NABYWCA </p>
+
+        <br>
+
+    Nabywca: <input type="text" name="Nabywca" style="border: 3px solid black">
+    Nip: <input type="text" name="NipN" style="border: 3px solid black">
+    Adres: <input type="text" name="AdresN" style="border: 3px solid black">
+    Numer konta: <input type="text" name="NrKontaN" style="border: 3px solid black">
+    Telefon: <input type="text" name="TelN" style="border: 3px solid black">
+
+        <br> <br> <br>
+
+        <p style = "font-size: 20px;"> <i> Pozycje na fakturze </i> </p>
+
+        <br>
+
+    Nazwa: <input type="text" name="Nazwa" style="border: 3px solid black">
+    Ilość: <input type="text" name="Il" style="border: 3px solid black">
+    Cena: <input type="text" name="Cena" style="border: 3px solid black">
+    %Vat: <input type="text" name="Vat" style="border: 3px solid black">
+    Rabat w <input type="text" name="Rabat" style="border: 3px solid black"> %
+
+          <br> <br> <br>
+
+        <input type="submit" value="Powitanie">
+        </form>
+
+        <br> <br> <br>
+
+        <footer> Autor strony: Niewiadomski Kamil, 2pr-T5 </footer>
+    
+    </body>  
+</html>
