@@ -1,0 +1,92 @@
+html, body {
+	font-family: Tahoma;
+}
+
+.LOGO {
+	background-color: #115C97;
+	color: DodgerBlue;
+	height: 100px;
+	width: 50%;
+	text-align: center;
+	font-size: 150%;
+	float: left;
+	display: inline-block;
+}
+
+.MENU {
+	background-color: #115C97;
+	color: DodgerBlue;
+	height: 100px;
+	width: 50%;
+	text-align: center;
+	font-size: 150%;
+	float: right;
+	display: inline-block;
+}
+
+.GLOWNY {
+	background-color: #ACCEE8;
+	height: 400px;
+	padding: 30px;
+}
+
+.S1{
+	background-color: #115C97;
+	height: 200px;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+.S2{
+	background-color: #115C97;
+	height: 200px;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+.S3{
+	background-color: #115C97;
+	height: 200px;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+.S4 {
+	background-color: #115C97;
+	height: 200px;
+	width: 25%;
+	display: inline-block;
+	float: right;
+}
+
+a {
+	color: DodgerBlue;
+	margin: 10px;
+}
+
+table {
+	border-style: solid;	
+	width: 100%;
+	border-size: 1px;
+	border-color: blue;
+}
+
+th {
+	background-color: #115C97;
+	color: white;
+	border-color: blue;
+}
+
+td {
+	border-size: 1px; 
+	border-style: dashed;
+	border-color: blue;
+}
+
+td:hover {
+	background: #115C97;
+	color: white;
+}

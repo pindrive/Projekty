@@ -1,0 +1,10 @@
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\bin\Debug\ListBox i ComboBox.exe.config
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\bin\Debug\ListBox i ComboBox.exe
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\bin\Debug\ListBox i ComboBox.pdb
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox i ComboBox.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox_i_ComboBox.Form1.resources
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox_i_ComboBox.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox i ComboBox.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox i ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox i ComboBox.exe
+C:\Users\Ryzen\Desktop\Kamil\C#\ListBox i ComboBox\obj\Debug\ListBox i ComboBox.pdb
