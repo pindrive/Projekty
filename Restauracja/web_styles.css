@@ -1,0 +1,73 @@
+body {
+    margin: auto;
+}
+
+aside {
+    background-color: #37668B;
+    width: 15%;
+    height: 100vh;
+    text-align: center;
+    word-wrap: break-word;
+    float: left;
+}
+
+aside h1 {
+    font-size: 200%;
+    display: inline-block;
+}
+
+aside select {
+    font-size: 120%;
+    cursor: pointer;
+}
+
+aside label {
+    font-size: 150%;
+    font-weight: 600;
+    padding-bottom: 200px;
+}
+
+aside input {
+    font-size: 120%;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+aside button {
+    font-size: 130%;
+    margin: 5px;
+    cursor: pointer;
+}
+
+aside input:hover {
+    cursor: pointer;
+}
+
+main {
+    background-color: #4682B4;
+    height: 100vh;
+    width: 85%;
+    word-wrap: break-word;
+    text-align: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    float: left;
+}
+
+#blok_zamowienia {
+    background-color: white;
+    height: 12vh;
+    width: 18vw;
+    padding: 3px;
+    margin: 20px;
+    margin-left: 30px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 120%;
+    border-radius: 20px;
+    float: left;
+    text-align: left;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    cursor: default;
+}
